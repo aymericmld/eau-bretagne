@@ -169,3 +169,7 @@ docs/               Méthodologie et graphiques
 | [API Découpage administratif](https://geo.api.gouv.fr) | DINUM | À vérifier sur la fiche de la source |
 
 Le contexte de 2022 s'appuie sur [Le Journal des Entreprises](https://www.lejournaldesentreprises.com/article/comment-les-entreprises-bretonnes-sadaptent-au-manque-deau-2047348) et [Réussir](https://www.reussir.fr/articles/secheresse-comment-les-usines-agroalimentaires-bretonnes-gerent-la-penurie-deau).
+
+## Licence
+
+Le code de ce dépôt est sous [licence MIT](LICENSE). Les données restent soumises aux licences de leurs producteurs, listées ci-dessus.

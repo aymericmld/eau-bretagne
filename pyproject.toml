@@ -3,6 +3,7 @@ name = "eau-bretagne"
 version = "0.1.0"
 description = "Exposition des territoires bretons au risque eau : pipeline open data pour Power BI"
 requires-python = ">=3.12"
+license = "MIT"
 dependencies = ["pandas>=3.0", "pyarrow", "requests", "scikit-learn", "matplotlib"]
 
 [project.optional-dependencies]
