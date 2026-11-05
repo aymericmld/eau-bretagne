@@ -1,0 +1,61 @@
+// Mesures du modèle Eau Bretagne. Créer une table « Mesures » ou les rattacher à dim_commune.
+
+// --- Prélèvements ---
+Volume prélevé (Mm³) = DIVIDE ( SUM ( fact_prelevements[volume_m3] ), 1000000 )
+
+Volume année précédente (Mm³) =
+VAR AnneeCourante = SELECTEDVALUE ( dim_annee[annee] )
+RETURN
+    CALCULATE ( [Volume prélevé (Mm³)], REMOVEFILTERS ( dim_annee ), dim_annee[annee] = AnneeCourante - 1 )
+
+Évolution annuelle du volume = DIVIDE ( [Volume prélevé (Mm³)] - [Volume année précédente (Mm³)], [Volume année précédente (Mm³)] )
+
+Part des eaux de surface =
+DIVIDE ( CALCULATE ( [Volume prélevé (Mm³)], fact_prelevements[milieu] = "Surface" ), [Volume prélevé (Mm³)] )
+
+Part des activités économiques =
+DIVIDE (
+    CALCULATE ( [Volume prélevé (Mm³)], fact_prelevements[usage] = "Activités économiques" ),
+    CALCULATE ( [Volume prélevé (Mm³)], REMOVEFILTERS ( fact_prelevements[usage] ) )
+)
+
+Volume sectoriel (Mm³) = DIVIDE ( SUM ( fact_secteur[volume_m3] ), 1000000 )
+
+// --- Restrictions : le dénominateur compte toutes les communes, même sans restriction ---
+Communes = COUNTROWS ( dim_commune )
+
+Jours de restriction par commune = DIVIDE ( SUM ( fact_restrictions_mois[jours_restriction] ), [Communes] )
+
+Jours de crise par commune = DIVIDE ( SUM ( fact_restrictions_mois[jours_crise] ), [Communes] )
+
+Score de gravité par commune =
+DIVIDE (
+    SUM ( fact_restrictions_mois[jours_alerte] )
+        + 2 * SUM ( fact_restrictions_mois[jours_alerte_renforcee] )
+        + 3 * SUM ( fact_restrictions_mois[jours_crise] ),
+    [Communes]
+)
+
+Communes touchées par la crise =
+CALCULATE ( DISTINCTCOUNT ( fact_restrictions_mois[code_commune] ), fact_restrictions_mois[jours_crise] > 0 )
+
+// --- Exposition ---
+Indice moyen (pondéré par la population) =
+DIVIDE ( SUMX ( dim_commune, dim_commune[indice_exposition] * dim_commune[population] ), SUM ( dim_commune[population] ) )
+
+Habitants en exposition très élevée =
+CALCULATE ( SUM ( dim_commune[population] ), dim_commune[classe_exposition] = "4 - Très élevée" )
+
+Part des habitants en exposition très élevée =
+DIVIDE ( [Habitants en exposition très élevée], CALCULATE ( SUM ( dim_commune[population] ), REMOVEFILTERS ( dim_commune[classe_exposition] ) ) )
+
+// --- Nappes ---
+Niveau des nappes (centile) = AVERAGE ( fact_nappes_mois[percentile_median] )
+
+// --- Fiche commune ---
+Titre de la fiche =
+IF (
+    HASONEVALUE ( dim_commune[nom_commune] ),
+    SELECTEDVALUE ( dim_commune[nom_commune] ) & " : exposition " & SELECTEDVALUE ( dim_commune[classe_exposition] ),
+    "Sélectionnez une commune"
+)

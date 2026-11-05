@@ -1,0 +1,8 @@
+motif_nom,secteur,justification
+GOLF,Sports et loisirs,Le NAF rattache parfois le golf à sa commune ou à son restaurant
+LAVANDIERES|BLANCHISSERIE|INITIAL,Blanchisserie,Enseignes de blanchisserie industrielle
+CARRIERES?|GRANULATS|BETONS?|CEMEX,Carrières et matériaux,Le NAF de certaines entités correspond à une holding immobilière
+LAITIERE|FROMAGE|ABATTAGE|SALAISONS?|COUVOIR|DISTILLERIE|EAU MINERALE|POMMIAUX|SOJA|FISH,Agroalimentaire,Activité explicite dans le nom de l'ouvrage
+AGRIAL|EUREDEN|UKL|TERRES DE ST MALO|LEGUMES|GALLANCE|HENAFF|FLOCH|DOUX|DIANA NATURALS|FRONERIE|WHAT S COOKING,Agroalimentaire,Groupes et sites agroalimentaires connus ; le NAF de l'entité mère est souvent commercial
+BASE NAVALE|COETQUIDAN|ECOLE NAVALE|CAMP MILITAIRE|HOPITAL|SANTE|COLLEGE|INRAE,Services publics et santé,Sites publics
+BARRAGE|RETENUE|ETANG,Non identifié,Nom de ressource et non d'exploitant

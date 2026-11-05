@@ -1,0 +1,294 @@
+﻿code_departement,annee,secteur,volume_m3,nb_ouvrages
+22,2008,Agroalimentaire,2230200.0,19
+22,2008,Services et autres,172400.0,3
+22,2009,Agroalimentaire,1994474.0,18
+22,2009,Non identifié,272448.0,4
+22,2009,Services et autres,212703.0,3
+22,2010,Agroalimentaire,2036157.0,16
+22,2010,Non identifié,326020.0,3
+22,2010,Services et autres,149015.0,3
+22,2011,Agroalimentaire,2399239.0,19
+22,2011,Non identifié,317949.0,3
+22,2011,Services et autres,144583.0,3
+22,2011,Sports et loisirs,94900.0,6
+22,2012,Agroalimentaire,2304235.0,19
+22,2012,Blanchisserie,106837.0,3
+22,2012,Non identifié,252413.0,3
+22,2012,Sports et loisirs,55705.0,6
+22,2013,Agroalimentaire,2353933.0,18
+22,2013,Blanchisserie,89569.0,3
+22,2013,Non identifié,120886.0,4
+22,2013,Sports et loisirs,84721.0,5
+22,2014,Agroalimentaire,2282852.0,17
+22,2014,Blanchisserie,91695.0,3
+22,2014,Non identifié,109749.0,4
+22,2014,Sports et loisirs,24960.0,4
+22,2015,Agroalimentaire,2208286.0,14
+22,2015,Blanchisserie,88967.0,3
+22,2015,Non identifié,81846.0,4
+22,2015,Sports et loisirs,21129.0,3
+22,2016,Agroalimentaire,2136155.0,13
+22,2016,Blanchisserie,88438.0,3
+22,2016,Non identifié,30095.0,3
+22,2016,Sports et loisirs,21487.0,3
+22,2017,Agroalimentaire,1946948.0,14
+22,2017,Blanchisserie,95934.0,3
+22,2017,Sports et loisirs,22139.0,3
+22,2018,Agroalimentaire,1961342.0,12
+22,2018,Blanchisserie,94845.0,3
+22,2018,Sports et loisirs,69256.0,4
+22,2019,Agroalimentaire,1922563.0,13
+22,2019,Blanchisserie,98258.0,3
+22,2019,Sports et loisirs,41327.0,4
+22,2020,Agroalimentaire,1953297.0,12
+22,2020,Blanchisserie,88694.0,3
+22,2020,Sports et loisirs,49515.0,5
+22,2021,Agroalimentaire,1949528.0,12
+22,2021,Blanchisserie,87354.0,3
+22,2021,Sports et loisirs,53083.0,5
+22,2022,Agroalimentaire,1819730.0,12
+22,2022,Blanchisserie,73862.0,3
+22,2022,Sports et loisirs,37011.0,5
+22,2023,Agroalimentaire,1708691.0,12
+22,2023,Blanchisserie,83623.0,3
+22,2023,Sports et loisirs,24173.0,5
+22,2024,Agroalimentaire,1822253.0,12
+22,2024,Blanchisserie,93763.0,4
+22,2024,Sports et loisirs,19911.0,4
+29,2008,Agroalimentaire,3860300.0,26
+29,2008,Autre industrie,8529300.0,6
+29,2008,Non identifié,36800.0,3
+29,2008,Services et autres,615200.0,5
+29,2009,Agroalimentaire,4358047.0,24
+29,2009,Autre industrie,6922833.0,5
+29,2009,Blanchisserie,170873.0,3
+29,2009,Non identifié,54719.0,3
+29,2009,Services et autres,438673.0,3
+29,2010,Agroalimentaire,3691925.0,23
+29,2010,Autre industrie,7708303.0,6
+29,2010,Blanchisserie,189010.0,3
+29,2010,Non identifié,58856.0,4
+29,2010,Services et autres,365238.0,3
+29,2011,Agroalimentaire,4058493.0,26
+29,2011,Autre industrie,6350969.0,6
+29,2011,Blanchisserie,150439.0,3
+29,2011,Non identifié,45310.0,4
+29,2011,Services et autres,391298.0,4
+29,2011,Sports et loisirs,65600.0,4
+29,2012,Agroalimentaire,4193636.0,26
+29,2012,Autre industrie,6386323.0,6
+29,2012,Blanchisserie,171149.0,3
+29,2012,Non identifié,120232.0,6
+29,2012,Services et autres,397052.0,4
+29,2012,Sports et loisirs,46945.0,4
+29,2013,Agroalimentaire,3684635.0,25
+29,2013,Autre industrie,6403941.0,6
+29,2013,Blanchisserie,157282.0,3
+29,2013,Non identifié,114068.0,7
+29,2013,Services et autres,359382.0,5
+29,2013,Sports et loisirs,99965.0,4
+29,2014,Agroalimentaire,3811536.0,24
+29,2014,Autre industrie,6448983.0,6
+29,2014,Blanchisserie,157691.0,3
+29,2014,Non identifié,85934.0,5
+29,2014,Services et autres,176648.0,4
+29,2014,Sports et loisirs,60436.0,4
+29,2015,Agroalimentaire,3679443.0,23
+29,2015,Autre industrie,6737748.0,5
+29,2015,Blanchisserie,166686.0,3
+29,2015,Non identifié,35601.0,5
+29,2015,Services et autres,168937.0,3
+29,2015,Sports et loisirs,71300.0,3
+29,2016,Agroalimentaire,3674443.0,23
+29,2016,Autre industrie,6640217.0,5
+29,2016,Blanchisserie,156704.0,3
+29,2016,Non identifié,25244.0,4
+29,2016,Services et autres,165514.0,3
+29,2016,Sports et loisirs,63413.0,3
+29,2017,Agroalimentaire,3900888.0,22
+29,2017,Autre industrie,6983962.0,5
+29,2017,Blanchisserie,114040.0,3
+29,2017,Non identifié,22098.0,3
+29,2017,Services et autres,24394.0,3
+29,2017,Sports et loisirs,65457.0,3
+29,2018,Agroalimentaire,3930919.0,22
+29,2018,Autre industrie,6560599.0,5
+29,2018,Blanchisserie,111719.0,3
+29,2018,Services et autres,254854.0,4
+29,2018,Sports et loisirs,73298.0,3
+29,2019,Agroalimentaire,4172568.0,21
+29,2019,Autre industrie,6385703.0,5
+29,2019,Blanchisserie,139804.0,3
+29,2019,Services et autres,167946.0,4
+29,2019,Sports et loisirs,64860.0,3
+29,2020,Agroalimentaire,4195727.0,20
+29,2020,Autre industrie,6109372.0,5
+29,2020,Blanchisserie,115558.0,3
+29,2020,Non identifié,37440.0,3
+29,2020,Services et autres,169489.0,5
+29,2020,Sports et loisirs,76078.0,3
+29,2021,Agroalimentaire,3992689.0,20
+29,2021,Autre industrie,5970698.0,5
+29,2021,Blanchisserie,113350.0,3
+29,2021,Non identifié,33636.0,3
+29,2021,Services et autres,179651.0,5
+29,2022,Agroalimentaire,3726973.0,19
+29,2022,Autre industrie,5680076.0,5
+29,2022,Blanchisserie,105344.0,3
+29,2022,Non identifié,30428.0,3
+29,2022,Services et autres,91449.0,4
+29,2023,Agroalimentaire,3838900.0,19
+29,2023,Autre industrie,5713379.0,5
+29,2023,Blanchisserie,93843.0,3
+29,2023,Non identifié,30066.0,3
+29,2023,Services et autres,101534.0,4
+29,2024,Agroalimentaire,3761104.0,18
+29,2024,Autre industrie,5489156.0,5
+29,2024,Blanchisserie,98864.0,3
+29,2024,Non identifié,25276.0,3
+29,2024,Services et autres,101608.0,4
+35,2008,Agroalimentaire,2098300.0,13
+35,2008,Autre industrie,408300.0,5
+35,2008,Non identifié,6400.0,3
+35,2009,Agroalimentaire,2015305.0,13
+35,2009,Autre industrie,241618.0,5
+35,2009,Blanchisserie,71900.0,3
+35,2010,Agroalimentaire,1773677.0,12
+35,2010,Autre industrie,236787.0,5
+35,2010,Blanchisserie,74530.0,3
+35,2010,Non identifié,16773.0,3
+35,2011,Agroalimentaire,2034807.0,15
+35,2011,Autre industrie,299357.0,7
+35,2011,Blanchisserie,71296.0,3
+35,2011,Sports et loisirs,263721.0,7
+35,2012,Agroalimentaire,2147666.0,15
+35,2012,Autre industrie,265020.0,7
+35,2012,Blanchisserie,70450.0,3
+35,2012,Sports et loisirs,204473.0,7
+35,2013,Agroalimentaire,2150268.0,16
+35,2013,Autre industrie,220653.0,7
+35,2013,Blanchisserie,68801.0,3
+35,2013,Sports et loisirs,291225.0,7
+35,2014,Agroalimentaire,2218539.0,14
+35,2014,Autre industrie,221012.0,7
+35,2014,Blanchisserie,60714.0,3
+35,2014,Non identifié,20387.0,3
+35,2014,Sports et loisirs,180086.0,6
+35,2015,Agroalimentaire,2066311.0,13
+35,2015,Autre industrie,244163.0,9
+35,2015,Blanchisserie,104113.0,4
+35,2015,Non identifié,19228.0,3
+35,2015,Sports et loisirs,244442.0,7
+35,2016,Agroalimentaire,2080108.0,13
+35,2016,Autre industrie,244593.0,9
+35,2016,Blanchisserie,104589.0,4
+35,2016,Non identifié,11775.0,3
+35,2016,Sports et loisirs,227073.0,7
+35,2017,Agroalimentaire,1983411.0,13
+35,2017,Autre industrie,287954.0,9
+35,2017,Blanchisserie,102421.0,4
+35,2017,Sports et loisirs,269865.0,7
+35,2018,Agroalimentaire,1941744.0,13
+35,2018,Autre industrie,270800.0,8
+35,2018,Blanchisserie,100781.0,4
+35,2018,Non identifié,16657.0,3
+35,2018,Sports et loisirs,304333.0,7
+35,2019,Agroalimentaire,1805349.0,12
+35,2019,Autre industrie,269307.0,8
+35,2019,Blanchisserie,91235.0,4
+35,2019,Non identifié,9638.0,3
+35,2019,Sports et loisirs,256355.0,7
+35,2020,Agroalimentaire,1900008.0,12
+35,2020,Autre industrie,234169.0,8
+35,2020,Blanchisserie,66004.0,4
+35,2020,Sports et loisirs,233184.0,7
+35,2021,Agroalimentaire,1778661.0,13
+35,2021,Autre industrie,208226.0,8
+35,2021,Blanchisserie,72368.0,4
+35,2021,Sports et loisirs,187149.0,7
+35,2022,Agroalimentaire,2040805.0,14
+35,2022,Autre industrie,211911.0,8
+35,2022,Blanchisserie,76381.0,3
+35,2022,Sports et loisirs,187267.0,7
+35,2023,Agroalimentaire,1938610.0,15
+35,2023,Autre industrie,200505.0,8
+35,2023,Carrières et matériaux,492371.0,4
+35,2023,Sports et loisirs,185246.0,7
+35,2024,Agroalimentaire,1928223.0,16
+35,2024,Autre industrie,184524.0,8
+35,2024,Carrières et matériaux,305363.0,4
+35,2024,Sports et loisirs,151339.0,7
+56,2008,Agroalimentaire,7341077.0,23
+56,2008,Autre industrie,337800.0,3
+56,2008,Carrières et matériaux,49400.0,5
+56,2008,Non identifié,265100.0,3
+56,2008,Services et autres,314000.0,3
+56,2008,Services publics et santé,833600.0,5
+56,2008,Sports et loisirs,43800.0,4
+56,2009,Agroalimentaire,8039362.0,20
+56,2009,Autre industrie,294055.0,3
+56,2009,Carrières et matériaux,69229.0,3
+56,2009,Non identifié,202489.0,3
+56,2009,Services publics et santé,690642.0,4
+56,2009,Sports et loisirs,65562.0,4
+56,2010,Agroalimentaire,7511582.0,19
+56,2010,Autre industrie,382345.0,3
+56,2010,Non identifié,188747.0,3
+56,2010,Services et autres,337840.0,3
+56,2010,Services publics et santé,708929.0,3
+56,2010,Sports et loisirs,76666.0,5
+56,2011,Agroalimentaire,7109287.0,21
+56,2011,Autre industrie,403935.0,4
+56,2011,Services et autres,426623.0,3
+56,2011,Services publics et santé,643480.0,3
+56,2011,Sports et loisirs,67939.0,5
+56,2012,Agroalimentaire,6833327.0,21
+56,2012,Autre industrie,384362.0,4
+56,2012,Services et autres,238050.0,3
+56,2012,Services publics et santé,385598.0,3
+56,2012,Sports et loisirs,45234.0,5
+56,2013,Agroalimentaire,7110300.0,21
+56,2013,Autre industrie,376036.0,4
+56,2013,Services et autres,347219.0,3
+56,2013,Services publics et santé,137825.0,3
+56,2013,Sports et loisirs,68997.0,6
+56,2014,Agroalimentaire,7192471.0,22
+56,2014,Autre industrie,497209.0,4
+56,2014,Services et autres,352291.0,3
+56,2014,Services publics et santé,151499.0,4
+56,2014,Sports et loisirs,69646.0,6
+56,2015,Agroalimentaire,7317472.0,21
+56,2015,Autre industrie,486738.0,4
+56,2015,Services et autres,354312.0,3
+56,2015,Services publics et santé,147723.0,4
+56,2015,Sports et loisirs,89850.0,5
+56,2016,Agroalimentaire,7031124.0,21
+56,2016,Autre industrie,510735.0,4
+56,2016,Services publics et santé,133045.0,3
+56,2016,Sports et loisirs,76486.0,4
+56,2017,Agroalimentaire,7318509.0,21
+56,2017,Autre industrie,545220.0,4
+56,2017,Services publics et santé,154741.0,3
+56,2017,Sports et loisirs,54485.0,4
+56,2018,Agroalimentaire,7823453.0,21
+56,2018,Autre industrie,455826.0,4
+56,2018,Services publics et santé,143660.0,3
+56,2018,Sports et loisirs,76742.0,4
+56,2019,Agroalimentaire,6024719.0,21
+56,2019,Autre industrie,425017.0,4
+56,2019,Sports et loisirs,66923.0,4
+56,2020,Agroalimentaire,5671637.0,21
+56,2020,Autre industrie,424166.0,4
+56,2020,Sports et loisirs,90889.0,4
+56,2021,Agroalimentaire,5668301.0,20
+56,2021,Autre industrie,419034.0,4
+56,2021,Sports et loisirs,74085.0,4
+56,2022,Agroalimentaire,6470650.0,22
+56,2022,Autre industrie,488326.0,5
+56,2022,Sports et loisirs,71391.0,4
+56,2023,Agroalimentaire,5471221.0,22
+56,2023,Autre industrie,311734.0,5
+56,2023,Sports et loisirs,53834.0,4
+56,2024,Agroalimentaire,5078155.0,22
+56,2024,Autre industrie,483251.0,5
+56,2024,Sports et loisirs,22197.0,3

@@ -1,0 +1,23 @@
+[project]
+name = "eau-bretagne"
+version = "0.1.0"
+description = "Exposition des territoires bretons au risque eau : pipeline open data pour Power BI"
+requires-python = ">=3.12"
+dependencies = ["pandas>=3.0", "pyarrow", "requests", "scikit-learn", "matplotlib"]
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff", "jupyter", "nbconvert", "ipykernel"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff]
+line-length = 100

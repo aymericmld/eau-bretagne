@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.DS_Store
+data/raw/
+data/processed/prelevements_economiques.parquet
+data/processed/ouvrages_secteurs.parquet
+*.egg-info/
